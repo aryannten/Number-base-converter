@@ -1,0 +1,5 @@
+10111010 (Binary) -> 0o272 (Octal)
+69 (Decimal) -> 0b1000101 (Binary)
+69 (Decimal) -> 0o105 (Octal)
+69 (Decimal) -> 0o105 (Octal)
+69 (Decimal) -> 0x45 (Hexadecimal)

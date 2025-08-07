@@ -1,0 +1,45 @@
+{
+    "theme": "light",
+    "themes": {
+        "dark": {
+            "bg": "#1e1e2e",
+            "text": "#cdd6f4",
+            "entry_bg": "#313244",
+            "entry_fg": "#cdd6f4",
+            "button_bg": "#585b70",
+            "history_bg": "#1e1e2e",
+            "history_fg": "#cdd6f4",
+            "highlight": "#89b4fa"
+        },
+        "light": {
+            "bg": "#ffffff",
+            "text": "#000000",
+            "entry_bg": "#f5f5f5",
+            "entry_fg": "#000000",
+            "button_bg": "#e0e0e0",
+            "history_bg": "#f0f0f0",
+            "history_fg": "#000000",
+            "highlight": "#1a73e8"
+        },
+        "solarized": {
+            "bg": "#fdf6e3",
+            "text": "#657b83",
+            "entry_bg": "#eee8d5",
+            "entry_fg": "#586e75",
+            "button_bg": "#93a1a1",
+            "history_bg": "#eee8d5",
+            "history_fg": "#586e75",
+            "highlight": "#268bd2"
+        }
+    },
+    "recent_bases": [
+        "Decimal",
+        "Binary",
+        "Octal",
+        "Hexadecimal"
+    ],
+    "font": {
+        "family": "Segoe UI",
+        "size": 11
+    }
+}
