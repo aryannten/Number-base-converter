@@ -1,3 +1,4 @@
+
 # Number Base Converter
 
 A modern GUI application for converting numbers between different bases (Binary, Octal, Decimal, Hexadecimal) with support for floating-point numbers.
@@ -23,5 +24,5 @@ A modern GUI application for converting numbers between different bases (Binary,
    git clone https://github.com/your-username/number-base-converter.git
    cd number-base-converter
 
-2. Run the application
+## Run the application
    python number_converter_ui.py
