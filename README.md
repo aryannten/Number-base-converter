@@ -21,7 +21,7 @@ A modern GUI application for converting numbers between different bases (Binary,
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/number-base-converter.git
+   git clone https://github.com/aryannten/Number-base-converter.git
    cd number-base-converter
 
 ## Run the application
