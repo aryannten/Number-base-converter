@@ -1,4 +1,3 @@
-mkdir images
 
 # Number Base Converter
 
